@@ -1,0 +1,74 @@
+html {
+
+	display: block;
+
+}
+
+body {
+
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 30px;
+    border-bottom: 5px solid #222222;
+    border-top: 5px solid #222222;
+    padding: 50px;
+    background: #EAEAEE;
+
+}
+
+h1 {
+
+	font-style: text-transform: uppercase;
+	font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(30,40,65);
+    margin-top: 30px;
+    font-size: 25px;
+
+}
+
+h2 {
+
+	padding: 20px, 40px;
+	border-width: 20px;
+	line-height: 1.5;
+	margin: 20px, 30px;
+	background: rgb(200,200,240);
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+.profile-image {
+
+border-width: 4px;
+float: right;
+  max-width:50%;
+
+}
+
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
+
+hr {
+
+  border: none;
+  border-top: 1px solid #222222;
+  margin: 30px 0;
+
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 15px;
+
+}
+
+
+
+
+
+
